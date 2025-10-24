@@ -3,7 +3,7 @@
 Plugin Name: WP Emergency Access
 Description: Secure emergency admin access, user hiding, and login URL detection for WordPress.
 Version: 1.0
-Author: Amarire
+Author: Amarire Dev
 License: GPL2
 */
 
